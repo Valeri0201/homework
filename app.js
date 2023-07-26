@@ -15,9 +15,9 @@ function unique(arr) {
   alert( unique(strings) );
   
   //task 3
-  //for (let a, b => 2,5 ){
-  //console.log(i);
-  //}
+  for (let a, b => 2,5 ){
+  console.log(i);
+  }
   
   //task 7
   function findUnique(arr1, arr2) {
@@ -62,5 +62,3 @@ function unique(arr) {
   getRandomInt(1, 500);
   alert(getRandomInt);
   
-  
-  //task5
